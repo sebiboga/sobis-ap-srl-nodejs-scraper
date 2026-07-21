@@ -3,7 +3,7 @@ import { generateJobsMarkdown } from "../../src/markdown-generator.js";
 const baseCompany = {
   id: "52200796",
   company: "SOBIS AP S.R.L.",
-  brand: "SOBIS AP",
+  brand: "SOBIS",
   status: "activ",
   location: ["Sibiu"],
   website: ["https://sobis-ap.ro"],

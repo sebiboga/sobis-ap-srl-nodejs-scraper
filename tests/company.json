@@ -1,7 +1,8 @@
 {
   "validatedAt": "2026-07-21T10:00:00.000Z",
   "source": "ANAF",
-  "brand": "SOBIS AP",
+  "group": "TSS",
+  "brand": "SOBIS",
   "anaf": {
     "cui": 52200796,
     "name": "SOBIS AP S.R.L.",

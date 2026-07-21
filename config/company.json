@@ -1,7 +1,8 @@
 {
   "cif": "52200796",
   "legalName": "SOBIS AP S.R.L.",
-  "brand": "SOBIS AP",
+  "group": "TSS",
+  "brand": "SOBIS",
   "website": "https://sobis-ap.ro",
   "careerUrl": "https://sobis-ap.ro/cariere",
   "apiBase": "https://sobis-ap.ro/cariere",

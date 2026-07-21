@@ -1,7 +1,7 @@
 {
-  "validatedAt": "2026-07-21T14:11:14.138Z",
+  "validatedAt": "2026-07-21T14:47:44.281Z",
   "source": "ANAF",
-  "brand": "SOBIS AP",
+  "brand": "SOBIS",
   "anaf": {
     "cui": 52200796,
     "fax": "",
@@ -94,7 +94,28 @@
     "vatStatus": "fresh",
     "datoriiAnaf": null
   },
-  "peviitor": null,
+  "peviitor": {
+    "id": "12018818",
+    "company": "SOBIS SOLUTIONS SRL",
+    "brand": "SOBIS SOLUTIONS SRL",
+    "status": "activ",
+    "location": [
+      "Sat Arpaşu de Sus, Comuna Arpaşu de Jos"
+    ],
+    "lastScraped": "2026-07-21",
+    "scraperFile": "inviitor-ro-nodejs-scraper",
+    "address": [
+      "505, Sat Arpaşu de Sus, Comuna Arpaşu de Jos, Sibiu"
+    ],
+    "anafData": [
+      "{\"cif\":12018818,\"cui\":12018818,\"denumire\":\"SOBIS SOLUTIONS SRL\",\"company\":\"SOBIS SOLUTIONS SRL\",\"brand\":\"SOBIS SOLUTIONS SRL\",\"statusImpozit\":\"activ\",\"adresa\":\"505, Sat Arpaşu de Sus, Comuna Arpaşu de Jos, Sibiu\",\"localitate\":\"Sat Arpaşu de Sus, Comuna Arpaşu de Jos\",\"website\":\"\"}"
+    ],
+    "existingJobsCount": [
+      0
+    ],
+    "_version_": 1871334235241971700,
+    "_root_": "12018818"
+  },
   "summary": {
     "company": "SOBIS AP S.R.L.",
     "cif": "52200796",

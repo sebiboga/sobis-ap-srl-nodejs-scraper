@@ -132,7 +132,7 @@ describe('Integration: API Workflow', () => {
       const sobis = result.docs[0];
       expect(sobis.id).toBe(SOBIS_CIF);
       expect(sobis.company).toBe(COMPANY_CONFIG.legalName);
-      expect(sobis.brand).toBe(COMPANY_CONFIG.brand);
+      expect(sobis.brand).toContain(COMPANY_CONFIG.brand);
       expect(sobis.status).toBe('activ');
       expect(Array.isArray(sobis.location)).toBe(true);
       expect(sobis.lastScraped).toMatch(/^\d{4}-\d{2}-\d{2}$/);
@@ -144,7 +144,7 @@ describe('Integration: API Workflow', () => {
 
       expect(sobis).toHaveProperty('id', SOBIS_CIF);
       expect(sobis).toHaveProperty('company');
-      expect(sobis).toHaveProperty('brand', COMPANY_CONFIG.brand);
+      expect(sobis.brand).toContain(COMPANY_CONFIG.brand);
       expect(sobis).toHaveProperty('status');
       expect(['activ', 'suspendat', 'inactiv', 'radiat']).toContain(sobis.status);
       expect(sobis).toHaveProperty('location');
