@@ -23,7 +23,7 @@ export const DEFAULT_EXPIRED_KEYWORDS = [
 ];
 
 const DEFAULT_USER_AGENT = "job_seeker_ro_spider";
-const DEFAULT_TIMEOUT_MS = 15000;
+const DEFAULT_TIMEOUT_MS = 10000;
 
 /**
  * HEAD-only validator. Returns the URL active if status is 2xx/3xx, expired

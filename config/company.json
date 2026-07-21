@@ -3,8 +3,8 @@
   "legalName": "SOBIS AP S.R.L.",
   "brand": "SOBIS AP",
   "website": "https://sobis-ap.ro",
-  "careerUrl": "https://sobis-ap.ro/cariere/",
-  "apiBase": "https://sobis-ap.ro/cariere/",
+  "careerUrl": "https://sobis-ap.ro/cariere",
+  "apiBase": "https://sobis-ap.ro/cariere",
   "defaultLocation": "Sibiu",
-  "scraperFile": "https://raw.githubusercontent.com/sebiboga/sobis-ap-srl-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
+  "scraperFile": "job-seeker-ro-spider.yml"
 }

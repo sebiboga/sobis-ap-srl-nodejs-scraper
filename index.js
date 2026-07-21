@@ -22,8 +22,8 @@ import companyConfig from "./config/company.js";
 const COMPANY_CIF = companyConfig.cif;
 const CAREER_URL = companyConfig.careerUrl;
 
-// Request timeout in milliseconds (15 seconds)
-const TIMEOUT = 15000;
+// Request timeout in milliseconds (10 seconds, per INSTRUCTIONS.md)
+const TIMEOUT = 10000;
 
 // Global variable to store company name after validation
 let COMPANY_NAME = null;
@@ -393,9 +393,15 @@ async function main() {
 
     // Step 2: Validate company data via ANAF
     console.log("=== Step 2: Validate company via ANAF ===");
-    const { company, cif, address } = await validateAndGetCompany();
+    const { status, company, cif, address } = await validateAndGetCompany();
     COMPANY_NAME = company;
     const localCif = cif;
+
+    // If company is inactive, jobs were already deleted by company.js — STOP
+    if (status === "inactive") {
+      console.log("\n⛔ Company is INACTIVE in ANAF — scraper stopping (no jobs to scrape)");
+      return;
+    }
 
     // Upsert company to SOLR company core
     try {
