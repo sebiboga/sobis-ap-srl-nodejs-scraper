@@ -408,6 +408,7 @@ async function main() {
       await upsertCompany({
         id: cif,
         company,
+        group: companyConfig.group,
         brand: companyConfig.brand,
         status: "activ",
         location: address ? [address] : [companyConfig.defaultLocation],
