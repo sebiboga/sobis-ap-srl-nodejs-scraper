@@ -40,7 +40,7 @@ When working on this scraper:
 - **Node.js & JavaScript** - For scraping and data extraction
 - **cheerio** - For HTML parsing of careers page
 - **Apache SOLR** - For data storage and indexing
-- **Claude Code** - For development
+- **opencode** - For development
 
 ## Workflow Steps
 
@@ -232,4 +232,4 @@ All temporary/scratch files must be placed in `tmp/` inside the project root (ne
 - [x] Write Unit Tests for all modules (#3)
 - [x] Write Integration Tests in separate folder (#4)
 - [x] Write E2E automated tests in separate folder (#5)
-- [ ] Write Unit/Component/E2E tests for index.js
+- [x] Write Unit/Component/E2E tests for index.js

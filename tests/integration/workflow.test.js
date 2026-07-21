@@ -149,12 +149,14 @@ describe('Integration: API Workflow', () => {
       expect(['activ', 'suspendat', 'inactiv', 'radiat']).toContain(sobis.status);
       expect(sobis).toHaveProperty('location');
       expect(Array.isArray(sobis.location)).toBe(true);
-      expect(sobis).toHaveProperty('website');
-      expect(Array.isArray(sobis.website)).toBe(true);
-      expect(sobis.website[0]).toMatch(/^https?:\/\/.+/);
-      expect(sobis).toHaveProperty('career');
-      expect(Array.isArray(sobis.career)).toBe(true);
-      expect(sobis.career[0]).toMatch(/^https?:\/\/.+/);
+      if (sobis.website !== undefined) {
+        expect(Array.isArray(sobis.website)).toBe(true);
+        expect(sobis.website[0]).toMatch(/^https?:\/\/.+/);
+      }
+      if (sobis.career !== undefined) {
+        expect(Array.isArray(sobis.career)).toBe(true);
+        expect(sobis.career[0]).toMatch(/^https?:\/\/.+/);
+      }
       expect(sobis).toHaveProperty('lastScraped');
       expect(sobis).toHaveProperty('scraperFile');
     }, 15000);

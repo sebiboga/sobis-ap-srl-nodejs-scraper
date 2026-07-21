@@ -1,0 +1,110 @@
+{
+  "validatedAt": "2026-07-21T14:05:33.422Z",
+  "source": "ANAF",
+  "brand": "SOBIS AP",
+  "anaf": {
+    "cui": 52200796,
+    "fax": "",
+    "iban": "",
+    "name": "SOBIS AP S.R.L.",
+    "phone": "",
+    "address": "DUMBRĂVII, 101, Municipiul Sibiu, Sibiu",
+    "caenCode": "5829",
+    "inactive": false,
+    "splitVat": false,
+    "legalForm": "SRL",
+    "postalCode": "550399",
+    "vatPeriods": [
+      {
+        "end": null,
+        "start": "2025-07-23",
+        "message": "",
+        "yearStart": ""
+      }
+    ],
+    "cashBasisVat": false,
+    "fiscalAddress": {
+      "county": "",
+      "number": "",
+      "street": "",
+      "country": "",
+      "locality": "",
+      "postalCode": ""
+    },
+    "inactiveSince": null,
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON",
+    "vatRegistered": true,
+    "cashBasisVatEnd": null,
+    "fiscalAuthority": "Administraţia Judeţeană a Finanţelor Publice Sibiu",
+    "organizationForm": "PERSOANA JURIDICA",
+    "reactivatedSince": null,
+    "registrationDate": "23/07/2025 09:08:52",
+    "cashBasisVatStart": null,
+    "registrationState": "INREGISTRAT din data 23.07.2025",
+    "eFacturaRegistered": false,
+    "registrationNumber": "J2025054527006",
+    "headquartersAddress": {
+      "street": "DUMBRĂVII",
+      "number": "101",
+      "locality": "Municipiul Sibiu",
+      "county": "Sibiu",
+      "country": "România",
+      "postalCode": "550399"
+    },
+    "administrators": [
+      {
+        "id": 21569732,
+        "name": "ȘORICI GHEORGHE SILVIAN",
+        "role": "administrator",
+        "personId": 45435,
+        "gdprHidden": false
+      },
+      {
+        "id": 20844918,
+        "name": "LAR DANIEL",
+        "role": "administrator",
+        "personId": 321717,
+        "gdprHidden": false
+      },
+      {
+        "id": 22400884,
+        "name": "CORUȚIU AURELIA IOANA",
+        "role": "administrator",
+        "personId": 416306,
+        "gdprHidden": false
+      }
+    ],
+    "authorizedCaenCodes": [
+      "2611",
+      "2612",
+      "2620",
+      "2630",
+      "4650",
+      "5829",
+      "6210",
+      "6220",
+      "6290",
+      "6310",
+      "6391",
+      "6392"
+    ],
+    "onrcStatus": 1048,
+    "onrcStatusLabel": "Funcțiune",
+    "vatCheckedAt": "2026-07-14T15:09:02.705Z",
+    "vatStatus": "fresh",
+    "datoriiAnaf": null
+  },
+  "peviitor": null,
+  "summary": {
+    "company": "SOBIS AP S.R.L.",
+    "cif": "52200796",
+    "active": true,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "address": "DUMBRĂVII, 101, Municipiul Sibiu, Sibiu",
+    "registrationNumber": "J2025054527006",
+    "caenCode": "5829",
+    "vatRegistered": true,
+    "eFacturaRegistered": false
+  }
+}
