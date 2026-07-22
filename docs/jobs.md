@@ -5,16 +5,16 @@
 | Field | Value |
 |-------|-------|
 | CIF | 52200796 |
-| Brand | SOBIS AP |
+| Brand | SOBIS |
 | Status | activ |
 | Location | DUMBRĂVII, 101, Municipiul Sibiu, Sibiu |
 | Website | [https://sobis-ap.ro](https://sobis-ap.ro) |
 | Careers | [https://sobis-ap.ro/cariere](https://sobis-ap.ro/cariere) |
-| Last Scraped | 2026-07-21 |
+| Last Scraped | 2026-07-22 |
 
 ## Current Job Listings (15)
 
-_Generated: 2026-07-21T14:15:05.683Z_
+_Generated: 2026-07-22T08:27:17.594Z_
 
 ### Consultant Implementare — WEB
 
