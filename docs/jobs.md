@@ -10,11 +10,11 @@
 | Location | DUMBRĂVII, 101, Municipiul Sibiu, Sibiu |
 | Website | [https://sobis-ap.ro](https://sobis-ap.ro) |
 | Careers | [https://sobis-ap.ro/cariere](https://sobis-ap.ro/cariere) |
-| Last Scraped | 2026-07-22 |
+| Last Scraped | 2026-07-23 |
 
-## Current Job Listings (15)
+## Current Job Listings (16)
 
-_Generated: 2026-07-22T08:27:17.594Z_
+_Generated: 2026-07-23T08:28:01.800Z_
 
 ### Consultant Implementare — WEB
 
@@ -102,6 +102,14 @@ _Generated: 2026-07-22T08:27:17.594Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** react, python, azure, git, ai, ml, llm, api
+- **Status:** scraped
+
+### Dezvoltator Full-Stack Angular / .NET
+
+- **URL:** [https://sobis-ap.ro/cariere#careers-panel-dezvoltator-full-stack-angular-dotnet](https://sobis-ap.ro/cariere#careers-panel-dezvoltator-full-stack-angular-dotnet)
+- **Work Mode:** remote
+- **Location:** România
+- **Tags:** sql, server, c#, .net, html, css, angular, postgresql, docker, git, ci/cd, ai, ml, api, rest
 - **Status:** scraped
 
 ### .NET Developer
