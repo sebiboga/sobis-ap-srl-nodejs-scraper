@@ -10,11 +10,11 @@
 | Location | DUMBRĂVII, 101, Municipiul Sibiu, Sibiu |
 | Website | [https://sobis-ap.ro](https://sobis-ap.ro) |
 | Careers | [https://sobis-ap.ro/cariere](https://sobis-ap.ro/cariere) |
-| Last Scraped | 2026-08-04 |
+| Last Scraped | 2026-08-05 |
 
-## Current Job Listings (14)
+## Current Job Listings (19)
 
-_Generated: 2026-08-04T08:37:02.671Z_
+_Generated: 2026-08-05T08:34:20.726Z_
 
 ### Consultant Implementare — WEB
 
@@ -126,4 +126,34 @@ _Generated: 2026-08-04T08:37:02.671Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** sql, server, postgresql
+- **Status:** scraped
+
+### PROIECTANT SISTEME INFORMATICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3340130](https://mediere.anofm.ro/app/module/mediere/job/3340130)
+- **Location:** SIBIU
+- **Status:** scraped
+
+### PROGRAMATOR DE SISTEM INFORMATIC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3340124](https://mediere.anofm.ro/app/module/mediere/job/3340124)
+- **Location:** SIBIU
+- **Status:** scraped
+
+### ASISTENT MANAGER
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3340110](https://mediere.anofm.ro/app/module/mediere/job/3340110)
+- **Location:** SIBIU
+- **Status:** scraped
+
+### PROGRAMATOR DE SISTEM INFORMATIC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3302062](https://mediere.anofm.ro/app/module/mediere/job/3302062)
+- **Location:** SIBIU
+- **Status:** scraped
+
+### INGINER DE SISTEM ÎN INFORMATICA
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3282065](https://mediere.anofm.ro/app/module/mediere/job/3282065)
+- **Location:** SIBIU
 - **Status:** scraped
