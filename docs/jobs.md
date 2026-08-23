@@ -10,11 +10,11 @@
 | Location | DUMBRĂVII, 101, Municipiul Sibiu, Sibiu |
 | Website | [https://sobis-ap.ro](https://sobis-ap.ro) |
 | Careers | [https://sobis-ap.ro/cariere](https://sobis-ap.ro/cariere) |
-| Last Scraped | 2026-08-22 |
+| Last Scraped | 2026-08-23 |
 
 ## Current Job Listings (19)
 
-_Generated: 2026-08-22T06:37:12.003Z_
+_Generated: 2026-08-23T06:38:37.566Z_
 
 ### Consultant Implementare — WEB
 
