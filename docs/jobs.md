@@ -10,11 +10,11 @@
 | Location | DUMBRĂVII, 101, Municipiul Sibiu, Sibiu |
 | Website | [https://sobis-ap.ro](https://sobis-ap.ro) |
 | Careers | [https://sobis-ap.ro/cariere](https://sobis-ap.ro/cariere) |
-| Last Scraped | 2026-08-26 |
+| Last Scraped | 2026-08-27 |
 
-## Current Job Listings (19)
+## Current Job Listings (20)
 
-_Generated: 2026-08-26T06:45:48.967Z_
+_Generated: 2026-08-27T17:21:03.371Z_
 
 ### Consultant Implementare — WEB
 
@@ -126,6 +126,14 @@ _Generated: 2026-08-26T06:45:48.967Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** sql, server, postgresql
+- **Status:** scraped
+
+### Senior System Administrator – Infrastructură On-Premises & Cloud
+
+- **URL:** [https://sobis-ap.ro/cariere#careers-panel-senior-system-administrator-infrastructura-on-premises-cloud](https://sobis-ap.ro/cariere#careers-panel-senior-system-administrator-infrastructura-on-premises-cloud)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** server, python, docker, kubernetes, aws, azure, linux, windows, ai, rest
 - **Status:** scraped
 
 ### PROIECTANT SISTEME INFORMATICE
