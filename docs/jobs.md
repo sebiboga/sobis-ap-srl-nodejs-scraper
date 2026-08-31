@@ -10,11 +10,11 @@
 | Location | DUMBRĂVII, 101, Municipiul Sibiu, Sibiu |
 | Website | [https://sobis-ap.ro](https://sobis-ap.ro) |
 | Careers | [https://sobis-ap.ro/cariere](https://sobis-ap.ro/cariere) |
-| Last Scraped | 2026-08-30 |
+| Last Scraped | 2026-08-31 |
 
-## Current Job Listings (15)
+## Current Job Listings (20)
 
-_Generated: 2026-08-30T11:20:31.562Z_
+_Generated: 2026-08-31T12:45:59.291Z_
 
 ### Consultant Implementare — WEB
 
@@ -134,4 +134,34 @@ _Generated: 2026-08-30T11:20:31.562Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** server, python, docker, kubernetes, aws, azure, linux, windows, ai, rest
+- **Status:** scraped
+
+### PROIECTANT SISTEME INFORMATICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3340130](https://mediere.anofm.ro/app/module/mediere/job/3340130)
+- **Location:** SIBIU
+- **Status:** scraped
+
+### PROGRAMATOR DE SISTEM INFORMATIC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3340124](https://mediere.anofm.ro/app/module/mediere/job/3340124)
+- **Location:** SIBIU
+- **Status:** scraped
+
+### ASISTENT MANAGER
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3340110](https://mediere.anofm.ro/app/module/mediere/job/3340110)
+- **Location:** SIBIU
+- **Status:** scraped
+
+### PROGRAMATOR DE SISTEM INFORMATIC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3302062](https://mediere.anofm.ro/app/module/mediere/job/3302062)
+- **Location:** SIBIU
+- **Status:** scraped
+
+### INGINER DE SISTEM ÎN INFORMATICA
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3282065](https://mediere.anofm.ro/app/module/mediere/job/3282065)
+- **Location:** SIBIU
 - **Status:** scraped
