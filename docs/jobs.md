@@ -10,11 +10,11 @@
 | Location | DUMBRĂVII, 101, Municipiul Sibiu, Sibiu |
 | Website | [https://sobis-ap.ro](https://sobis-ap.ro) |
 | Careers | [https://sobis-ap.ro/cariere](https://sobis-ap.ro/cariere) |
-| Last Scraped | 2026-08-31 |
+| Last Scraped | 2026-09-01 |
 
-## Current Job Listings (20)
+## Current Job Listings (19)
 
-_Generated: 2026-08-31T12:45:59.291Z_
+_Generated: 2026-09-01T11:08:48.740Z_
 
 ### Consultant Implementare — WEB
 
@@ -70,14 +70,6 @@ _Generated: 2026-08-31T12:45:59.291Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** sql, git
-- **Status:** scraped
-
-### Asistent Manager
-
-- **URL:** [https://sobis-ap.ro/cariere#careers-panel-asistent-manager](https://sobis-ap.ro/cariere#careers-panel-asistent-manager)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** git, jira, ai
 - **Status:** scraped
 
 ### Specialist Migrare & Arhitectură Baze de Date
