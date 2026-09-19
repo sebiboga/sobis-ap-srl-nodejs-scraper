@@ -10,11 +10,11 @@
 | Location | DUMBRĂVII, 101, Municipiul Sibiu, Sibiu |
 | Website | [https://sobis-ap.ro](https://sobis-ap.ro) |
 | Careers | [https://sobis-ap.ro/cariere](https://sobis-ap.ro/cariere) |
-| Last Scraped | 2026-09-18 |
+| Last Scraped | 2026-09-19 |
 
 ## Current Job Listings (5)
 
-_Generated: 2026-09-18T10:37:08.130Z_
+_Generated: 2026-09-19T10:21:49.445Z_
 
 ### PROGRAMATOR
 
